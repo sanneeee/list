@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todo-7da21": {
+      "hosting": {
+        "toDolist": [
+          "todo-7da21"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todo-7da21"
+  }
+}
